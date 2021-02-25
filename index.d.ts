@@ -1542,7 +1542,7 @@ declare namespace math {
          * @param index The column index
          * @returns The specified column
          */
-        colum(value: MathArray | Matrix, index: number): MathArray | Matrix;
+        column(value: MathArray | Matrix, index: number): MathArray | Matrix;
     
         /**
          * @param value The matrix to extract a row from
