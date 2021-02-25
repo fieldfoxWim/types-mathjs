@@ -2,5 +2,14 @@
     "private": true,
     "dependencies": {
         "decimal.js": "^10.0.0"
-    }
+    } ,
+    "deprecated": false,
+    "description": "TypeScript definitions for prettier",
+    "license": "MIT",
+    "main": "",
+    "name": "@types/mathjs",
+    "scripts": {},
+    "typeScriptVersion": "3.4",
+    "types": "index.d.ts",
+    "version": "1.0.0"
 }
